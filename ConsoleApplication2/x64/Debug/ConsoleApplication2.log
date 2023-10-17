@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+D:\БГУИР\ООПиП\222\ConsoleApplication2\ConsoleApplication2.cpp(94,9): warning C4102: Book: неиспользованная метка
+D:\БГУИР\ООПиП\222\ConsoleApplication2\ConsoleApplication2.cpp(327,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\БГУИР\ООПиП\222\ConsoleApplication2\ConsoleApplication2.cpp(177,16): warning C4101: s: неиспользованная локальная переменная
+D:\БГУИР\ООПиП\222\ConsoleApplication2\ConsoleApplication2.cpp(177,9): warning C4101: count: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> D:\БГУИР\ООПиП\222\x64\Debug\ConsoleApplication2.exe
